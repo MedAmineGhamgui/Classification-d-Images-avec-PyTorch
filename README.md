@@ -18,3 +18,6 @@
   Cheval (horse)
   Bateau (ship)
   Camion (truck)
+
+---
+Cette version est développée par Mohamed Amine Ghamgui.
